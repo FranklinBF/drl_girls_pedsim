@@ -1,0 +1,45 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/headless/project/ROS/ws_drl_my/devel/include/**",
+                "/headless/project/ROS/ws_drl/devel/include/**",
+                "/headless/project/ROS/ws_drl_baselines/devel/include/**",
+                "/headless/project/ROS/ws_turtlebot/devel/include/**",
+                "/opt/ros/melodic/include/**",
+                "/headless/project/ROS/ws_drl_my/src/drl_local_planner_forks/navigation/base_local_planner/include/**",
+                "/headless/project/ROS/ws_drl_my/src/drl_local_planner_forks/navigation/clear_costmap_recovery/include/**",
+                "/headless/project/ROS/ws_drl_my/src/drl_local_planner_forks/navigation/costmap_2d/include/**",
+                "/headless/project/ROS/ws_drl_my/src/drl_local_planner_forks/flatland/flatland_plugins/include/**",
+                "/headless/project/ROS/ws_drl_my/src/drl_local_planner_forks/flatland/flatland_server/include/**",
+                "/headless/project/ROS/ws_drl_my/src/drl_local_planner_forks/flatland/flatland_viz/include/**",
+                "/headless/project/ROS/ws_drl_my/src/drl_local_planner_forks/navigation/map_server/include/**",
+                "/headless/project/ROS/ws_drl_my/src/drl_local_planner_forks/navigation/move_base/include/**",
+                "/headless/project/ROS/ws_drl_my/src/drl_local_planner_forks/navigation/nav_core/include/**",
+                "/headless/project/ROS/ws_drl_my/src/drl_local_planner_forks/navigation/navfn/include/**",
+                "/headless/project/ROS/ws_drl_my/src/drl_local_planner_forks/pedsim/3rdparty/libpedsim/include/**",
+                "/headless/project/ROS/ws_drl_my/src/drl_local_planner_forks/pedsim/pedsim_sensors/include/**",
+                "/headless/project/ROS/ws_drl_my/src/drl_local_planner_forks/pedsim/pedsim_simulator/include/**",
+                "/headless/project/ROS/ws_drl_my/src/drl_local_planner_forks/pedsim/pedsim_utils/include/**",
+                "/headless/project/ROS/ws_drl_my/src/drl_local_planner_forks/pedsim/pedsim_visualizer/include/**",
+                "/headless/project/ROS/ws_drl_my/src/drl_local_planner_ros_stable_baselines/rl_agent/include/**",
+                "/headless/project/ROS/ws_drl_my/src/drl_local_planner_ros_stable_baselines/rl_local_planner/include/**",
+                "/headless/project/ROS/ws_drl_my/src/drl_local_planner_forks/navigation/rotate_recovery/include/**",
+                "/headless/project/ROS/ws_turtlebot/src/turtlebot3_simulations/turtlebot3_fake/include/**",
+                "/headless/project/ROS/ws_turtlebot/src/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+                "/headless/project/ROS/ws_turtlebot/src/turtlebot3/turtlebot3_slam/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "gnu++14"
+        }
+    ],
+    "version": 4
+}

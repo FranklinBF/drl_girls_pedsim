@@ -1,0 +1,9 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/headless/project/ROS/ws_drl_my/devel/lib/python2.7/dist-packages",
+        "/headless/project/ROS/ws_drl/devel/lib/python2.7/dist-packages",
+        "/headless/project/ROS/ws_drl_baselines/devel/lib/python2.7/dist-packages",
+        "/headless/project/ROS/ws_turtlebot/devel/lib/python2.7/dist-packages",
+        "/opt/ros/melodic/lib/python2.7/dist-packages"
+    ]
+}
